@@ -1,0 +1,108 @@
+.bg{
+    position: absolute;
+width: 1920px;
+height: 960px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(270deg, #448CC0 47.92%, rgba(146, 197, 234, 0) 48.33%);
+}
+.tfoto{
+    position: absolute;
+width: 714px;
+height: 144px;
+left: 1103px;
+top: 370px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+text-align: center;
+
+}
+.thal{
+    position: absolute;
+width: 371px;
+height: 48px;
+left: 11px;
+top: 21px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+text-align: center;
+
+color: #0C75C0;
+}
+.k1{
+    position: absolute;
+width: 206px;
+height: 48px;
+left: 173px;
+top: 202px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+text-align: center;
+
+color: #000000;
+
+}
+.kk1{
+    position: absolute;
+width: 220px;
+height: 57px;
+left: 200px;
+top: 270px;
+
+background: #F4E4E4;
+}
+.k2{
+    position: absolute;
+width: 212px;
+height: 48px;
+left: 170px;
+top: 327px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+text-align: center;
+
+color: #000000;
+}
+.k3{
+    position: absolute;
+width: 213px;
+height: 48px;
+left: 170px;
+top: 452px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+text-align: center;
+
+color: #000000;
+
+}
+.tlogout{
+    position: absolute;
+width: 268px;
+height: 84px;
+left: 332px;
+top: 800px;
+
+background: #A5C3CA;
+}
