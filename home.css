@@ -1,0 +1,64 @@
+.desktop2{
+    position: absolute;
+width: 1920px;
+height: 960px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(180.06deg, #A5C3CA 12.93%, rgba(158, 168, 170, 0.19) 12.93%);
+}
+.trekap{
+    position: absolute;
+width: 643px;
+height: 117px;
+left: 52px;
+top: 17px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 300;
+font-size: 32px;
+line-height: 39px;
+text-align: center;
+
+color: #000000;
+
+    
+}
+.ktambah{
+    position: absolute;
+    width: 250px;
+    height: 90px;
+    left: 1300px;
+    top: -1px;
+    
+    background: #D4ECF9;
+}
+.klogout{
+    position: absolute;
+width: 250px;
+height: 90px;
+left: 1590px;
+top: -1px;
+
+background: #819FB0;
+}
+.tambah{
+    position: absolute;
+width: 187px;
+height: 29px;
+left: 1323px;
+top: 34px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+text-align: center;
+
+color: #151414;
+
+}
