@@ -1,0 +1,74 @@
+.bgwelcome{
+    position: absolute;
+width: 1920px;
+height: 960px;
+left: 0px;
+top: 0px;
+
+background: radial-gradient(50% 50% at 50% 50%, #92C5EA 0%, rgba(146, 197, 234, 0) 100%);
+}
+.selamat{
+    position: absolute;
+width: 793px;
+height: 192px;
+left: 425px;
+top: 123px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 40px;
+line-height: 48px;
+text-align: center;
+
+color: #000000;
+}
+.bglibrary{
+    position: absolute;
+width: 519px;
+height: 368px;
+left: 1140px;
+top: 296px;
+}
+.tujuan{
+    position: absolute;
+width: 815px;
+height: 273px;
+left: 153px;
+top: 439px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 32px;
+line-height: 39px;
+text-align: center;
+
+color: #000000;
+}
+.tombollogin{
+    position: absolute;
+    width: 210px;
+    height: 58px;
+    left: 1437px;
+    top: 819px;
+    
+    background: #2DBBE9;
+}
+.tnext{
+    position: absolute;
+width: 122px;
+height: 48px;
+left: 1485px;
+top: 825px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 40px;
+line-height: 48px;
+text-align: center;
+
+color: #FFFFFF;
+
+}
