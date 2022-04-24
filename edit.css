@@ -1,0 +1,90 @@
+.desktop3{
+    position: absolute;
+width: 2000px;
+height: 900px;
+left: -3px;
+top: 0px;
+
+background: linear-gradient(180.06deg, #A5C3CA 12.93%, rgba(158, 168, 170, 0.19) 12.93%);
+}
+.bgedit{
+    position: absolute;
+width: 900px;
+height: 624px;
+left: 500px;
+top: 206px;
+
+background: #E0ECEC;
+}
+.tfromedit{
+    position: absolute;
+width: 704px;
+height: 140px;
+left: 110px;
+top: 90px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 300;
+font-size: 30px;
+line-height: 29px;
+text-align: center;
+
+color: #000000;
+
+}
+.t{
+    position: absolute;
+width: 232px;
+height: 259px;
+left: 715px;
+top: 456px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+
+color: #000000;
+}
+.kedit{
+    position: absolute;
+width: 268px;
+height: 80px;
+left: 1576px;
+top: 900px;
+
+background: #0C75C0;
+}
+.tedit{
+    position: absolute;
+width: 73px;
+height: 36px;
+left: 1673px;
+top: 900px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 39px;
+text-align: center;
+
+color: #1F1D1D;
+}
+.form{
+    position: absolute;
+width: 730px;
+height: 500px;
+left: 500px;
+top: 400px;
+
+}
+.posisi{
+    width: 730px;
+height: 170px;
+    padding-left: 130px;
+padding-top: 200px;
+}
